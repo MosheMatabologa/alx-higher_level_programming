@@ -1,4 +1,4 @@
-#!/usr/bin/python3
-for q in range(99):
-    print("{:02d}".format(q), end=", ")
-print("{:02d}".format(99))
+def function4():
+    for number in range(99):
+        print("{} {}".format(number, hex(number)))
+function4()
