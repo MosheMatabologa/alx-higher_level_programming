@@ -1,0 +1,2 @@
+2: 262 (NSMALLPOSINTS + NSMALLNEGINTS)
+No additional integers are created during the execution of the print("Love"):String Laterals
