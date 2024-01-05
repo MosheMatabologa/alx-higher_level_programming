@@ -1,5 +1,5 @@
-Number of int objects created by the first line: 1
-Number of int objects created by the second line: 1
-After the execution of line 3, is the int object pointed by a deleted? No
-After the execution of line 4, is the int object pointed by b deleted? No
-Number of int objects created by the last line: 1
+1
+1
+Yes
+Yes
+1
